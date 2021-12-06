@@ -3,6 +3,6 @@ This repo contains my tasks done as a data science and business analytics intern
 
 Internship Category - Data Science and Business Analytics
 
-Internship Duration - 1 Month ( October-2021 )
+Internship Duration - 1 Month ( December-2021 )
 
 Internship Type - Work from Home
